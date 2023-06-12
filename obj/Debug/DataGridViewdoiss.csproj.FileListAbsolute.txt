@@ -1,0 +1,10 @@
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\DataGridViewdoiss\bin\Debug\DataGridViewdoiss.exe.config
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\DataGridViewdoiss\bin\Debug\DataGridViewdoiss.exe
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\DataGridViewdoiss\bin\Debug\DataGridViewdoiss.pdb
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\DataGridViewdoiss\obj\Debug\DataGridViewdoiss.csproj.AssemblyReference.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\DataGridViewdoiss\obj\Debug\DataGridViewdoiss.Form1.resources
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\DataGridViewdoiss\obj\Debug\DataGridViewdoiss.Properties.Resources.resources
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\DataGridViewdoiss\obj\Debug\DataGridViewdoiss.csproj.GenerateResource.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\DataGridViewdoiss\obj\Debug\DataGridViewdoiss.csproj.CoreCompileInputs.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\DataGridViewdoiss\obj\Debug\DataGridViewdoiss.exe
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\DataGridViewdoiss\obj\Debug\DataGridViewdoiss.pdb
